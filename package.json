@@ -2,7 +2,7 @@
   "name": "crud-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saipriyadekka41-jpg.github.io/flask-sqlite-crud-react",
+  "homepage": "https://saipriyadekka41-jpg.github.io/crud-react-app-project",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
