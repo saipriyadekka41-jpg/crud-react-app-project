@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flask-sqlite-crud-react/static/css/main.5e906651.css",
+    "main.js": "/flask-sqlite-crud-react/static/js/main.26a7511f.js",
+    "index.html": "/flask-sqlite-crud-react/index.html",
+    "main.5e906651.css.map": "/flask-sqlite-crud-react/static/css/main.5e906651.css.map",
+    "main.26a7511f.js.map": "/flask-sqlite-crud-react/static/js/main.26a7511f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e906651.css",
+    "static/js/main.26a7511f.js"
+  ]
+}
